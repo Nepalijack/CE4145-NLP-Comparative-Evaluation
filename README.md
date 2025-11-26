@@ -7,4 +7,9 @@ https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-review
 
 
 To run, open google colab or any other form you would prefer and run all the cells
+
+Installation:
+
 pip install -r requirements.txt
+
+No need to install anything in Google Colab :D
